@@ -1,0 +1,14 @@
+Package: fooPkg
+Type: Package
+Title: test namespace
+Version: 0.0.1
+Date: 2014-07-07
+Authors@R: c(person("Leonardo", "Collado-Torres", role = c("aut", "cre"), email
+    = "lcollado@jhu.edu"))
+Depends:
+    R(>= 3.1)
+Imports:
+    IRanges (>= 1.99.17)
+Description: Test namespace
+License: Artistic-2.0
+LazyData: false
